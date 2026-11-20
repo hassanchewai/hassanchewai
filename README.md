@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey there! 
 
-<!--
-**hassanchewai/hassanchewai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a TAFE Web development graduate transitioning into computing, networking and hardware.
 
-Here are some ideas to get you started:
+### Currently
+Finishing my Diploma of Front-End Web Development and beginning to explore computer systems, networking and lower-level technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Technologies
+- **Development:** React, Bootstrap, HTML, CSS, JavaScript
+- **Design:** Figma
+
+### Contact
+📧 [Email me](hassan.chewai05@gmail.com)
+
+
+
+
