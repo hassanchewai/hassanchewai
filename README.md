@@ -10,7 +10,7 @@ Finishing my Diploma of Front-End Web Development and beginning to explore compu
 - **Design:** Figma
 
 ### Contact
-📧 [Email me](mailto:hassan.chewai05@gmail.com)
+ [Email me](mailto:hassan.chewai05@gmail.com)
 
 
 
